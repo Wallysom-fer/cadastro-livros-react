@@ -9,7 +9,7 @@ Atividade prática de Programação para Internet (IFRN — Campus Pau dos Ferro
 ## Como rodar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/cadastro-livros-react.git
+git clone https://github.com/Wallysom-fer/cadastro-livros-react.git
 cd cadastro-livros-react
 npm install
 npm run dev
